@@ -1,6 +1,6 @@
 #!/bin/bash
 # Encode your text with base64, copy the result to clipboard and after 3 seconds
-# it clean up the clipboard.
+# it cleans up the clipboard.
 clear
 echo
 echo
