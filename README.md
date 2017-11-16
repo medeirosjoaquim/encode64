@@ -1,3 +1,18 @@
+#Boas práticas para passwords
+-----------------
+
+É comum o usuário criar senhas fracas ou usar uma senha para diversos serviços
+porque não quer confiar na memória. Convenhamos, quem precisa de memória é o
+computador!
+
+A ideia desse script é a de que o usuário cria uma senha simples (ex: nome do
+cachorro + mes do aniversário) e usa o sistema base64 para torná-la mais forte.
+Decora a senha simples e o computador a torna forte.
+
+Maneira fácil de aumentar a segurança!
+Uma senha como "pedro1234" torna-se: cGVkcm8xMjM0 , o que é suficiente
+para frustrar um ataque bruteforce!
+
 # encode64
 Encode string with base64
 
